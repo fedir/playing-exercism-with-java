@@ -1,8 +1,7 @@
 
 import java.util.List;
 
-class ResistorColor {
-    
+class ResistorColor {  
     String[] resistors = {
         "black", 
         "brown", 
@@ -22,6 +21,5 @@ class ResistorColor {
 
 	String[] colors() {
         return resistors;
-
     }
 }
